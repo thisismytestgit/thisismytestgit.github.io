@@ -1,3 +1,14 @@
-# Welcome to my wiki
+---
+title: Welcome
+nav_order: 1
+---
 
-This website is meant to include all relevant information used by our team. This can be used as a guide where to record and find information about everything.
+# Welcome to [Your Lab Name]
+
+This is our internal wiki and public resource page. Here you'll find:
+
+- Info for new lab members 🧪
+- Our latest publications 📚
+- How-to guides and protocols 🛠️
+
+Use the menu or search bar above to navigate.
