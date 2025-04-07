@@ -1,9 +1,11 @@
-title: My lab wiki
-description: Welcome to the official wiki of xxx
-theme: just-the-docs
+title: Your Lab Name
+description: Welcome to the official wiki of Our Research Group
 
-# Optional: adds a search bar
+# Use Just the Docs via remote_theme
+remote_theme: just-the-docs/just-the-docs
+
+# Enable search bar
 search_enabled: true
 
-# Optional: navigation structure
+# Navigation order (optional)
 nav_order: 1
