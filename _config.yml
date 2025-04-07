@@ -1,0 +1,9 @@
+title: My lab wiki
+description: Welcome to the official wiki of xxx
+theme: just-the-docs
+
+# Optional: adds a search bar
+search_enabled: true
+
+# Optional: navigation structure
+nav_order: 1
